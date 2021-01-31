@@ -10,3 +10,7 @@ Some new text.
 ## New Subheader
 
 Hope you have a nice day!
+
+## Merge Conflict
+
+Trying merge conflict
