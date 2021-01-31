@@ -2,6 +2,6 @@
 
 Some text.
 
-## Sub header
+## Sub header
 
 Some new text.
